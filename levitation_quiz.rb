@@ -8,5 +8,3 @@ def levitation_quiz
   	  break
 	end
 end
-
-levitation_quiz
