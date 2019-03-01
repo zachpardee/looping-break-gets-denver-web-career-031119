@@ -9,4 +9,4 @@ def levitation_quiz
 	end
 end
 
-levitation quiz
+levitation_quiz
